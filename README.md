@@ -1,22 +1,19 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# 👋 Hi, I'm Hussein Ismail
 
-###
+Welcome to my GitHub profile! I'm passionate about software engineering, open-source, and building impactful solutions. Here’s a bit about me:
 
-<p align="left">My name is Hussein Ismail, I'm a Senior front-end developer, from Cairo,Egypt</p>
+---
 
-###
+## 🚀 About Me
 
-<h2 align="left">About me</h2>
+- 💻 **Software Engineer**: Experienced in front-end development, UI/Ux, and best practices.
+- 🌍 **Open Source Contributor**: I love collaborating on projects and learning from the community.
+- 🎓 **Continuous Learner**: Always exploring new technologies and best practices.
+- 🗣️ **Tech Speaker & Mentor**: I enjoy sharing knowledge and helping others grow.
 
-###
+---
 
-<p align="left">✨ Creating dynamic websites since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
+## 🛠️ Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -30,19 +27,39 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
+---
 
-###
+## 📈 GitHub Stats
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
+![Hussein-Ismail01's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hussein-Ismail01&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hussein-Ismail01&layout=compact&theme=radical)
 
-###
+---
+
+## 🌱 Latest Projects
+
+- **[Project Name](https://github.com/Hussein-Ismail01/ProjectName)** – Brief description of the project.
+- **[Another Cool Project](https://github.com/Hussein-Ismail01/AnotherProject)** – Brief description of the project.
+
+---
+
+## 📫 How to Reach Me
+
+- **Email:** hussein.ismail.sw@gmail.com
+- **LinkedIn:** [[Hussein Ismail](https://linkedin.com/in/hussein-ismail01)](https://www.linkedin.com/in/hussein-ismail-sw-engineer/)
+
+---
+
+## 🏆 Fun Facts
+
+- I love tackling coding challenges on weekends.
+- Coffee fuels my code.
+- Always up for a game of chess!
+
+---
+
+_Thanks for stopping by! Feel free to explore my repositories and connect with me!_
